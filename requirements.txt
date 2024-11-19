@@ -1,0 +1,10 @@
+google-cloud-texttospeech
+google-cloud-translate
+google-cloud-speech
+google-cloud-aiplatform
+requests==2.31.0
+google-cloud-logging
+google-auth
+requests
+numpy
+pyaudio==0.2.14
